@@ -29,7 +29,7 @@ Alguns dos meus projetos:
 
 Servidor de Minecraft com foco em **BedWars** e modos competitivos.
 
-### 🍄 SMK (Super Mario Kaizo)
+### 🍄 SMK (Super Mario Maker Kingdom)
 
 Fangame inspirado em **Mario Maker**, com fases personalizadas e desafios.
 
