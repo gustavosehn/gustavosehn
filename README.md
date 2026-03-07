@@ -47,7 +47,7 @@ Site para a comunidade de Geometry Dash:
 Caso queira entrar em contato:
 
 * GitHub: **@gustavosehn**
-* Discord: [https://dsc.gg/jogueprime](https://dsc.gg/jogueprime)
+* Discord: [FlashMC](https://dsc.gg/jogueflash)
 
 ---
 
