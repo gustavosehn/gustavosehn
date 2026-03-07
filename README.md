@@ -25,7 +25,7 @@ Tenho interesse em criar sistemas otimizados, funcionais e adaptados para servid
 
 Alguns dos meus projetos:
 
-### 🎮 PrimeMC
+### 🎮 FlashMC
 
 Servidor de Minecraft com foco em **BedWars** e modos competitivos.
 
